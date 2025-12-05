@@ -10,3 +10,10 @@ Html
 Запрос погоды
 <img width="772" height="961" alt="image" src="https://github.com/user-attachments/assets/4a6f793f-ed90-4c71-8e26-16278b3c776c" />
 <img width="1262" height="152" alt="image" src="https://github.com/user-attachments/assets/a341af2f-7796-4def-a4fd-891e13ecad55" />
+Проверили права доступа на индексный файл
+<img width="712" height="79" alt="image" src="https://github.com/user-attachments/assets/fb477cad-366d-4d09-a182-3c2f19c02c66" />
+Разрешили запись в файл всем
+<img width="930" height="100" alt="image" src="https://github.com/user-attachments/assets/e6844473-697a-4e4b-a25c-402a1280f17e" />
+Проверка скрипта и перезаписи индексного файла
+<img width="1227" height="389" alt="image" src="https://github.com/user-attachments/assets/d67219cf-776e-4473-a372-95475a123bee" />
+
