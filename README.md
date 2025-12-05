@@ -9,3 +9,4 @@ Html
 <img width="1349" height="496" alt="image" src="https://github.com/user-attachments/assets/47e3a611-78c5-4544-b1a0-9e147fd63c38" />
 Запрос погоды
 <img width="772" height="961" alt="image" src="https://github.com/user-attachments/assets/4a6f793f-ed90-4c71-8e26-16278b3c776c" />
+<img width="1262" height="152" alt="image" src="https://github.com/user-attachments/assets/a341af2f-7796-4def-a4fd-891e13ecad55" />
